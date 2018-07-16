@@ -1,0 +1,1 @@
+<a href="registration.html" class="button__agent">стать агентом</a>

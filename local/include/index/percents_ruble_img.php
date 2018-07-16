@@ -1,0 +1,1 @@
+<img src="/img/P.svg" class="percent__block-summ-rouble-img" alt="">

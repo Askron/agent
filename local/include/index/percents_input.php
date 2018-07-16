@@ -1,0 +1,1 @@
+<input type="range" value="2000" min="0" max="6000" step="50" class="percent__block-slider input-range">

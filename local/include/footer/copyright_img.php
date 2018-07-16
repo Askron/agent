@@ -1,0 +1,1 @@
+<img src="<?=SITE_TEMPLATE_PATH?>/img/makeit-logo.svg" alt="LOGO" class="footer__logo-img-pic">

@@ -1,0 +1,1 @@
+<iframe class="video__block-style" src="https://www.youtube.com/embed/OP4XCzh0WOY" width="1100" height="464" frameborder="0">Здесь было видео</iframe>

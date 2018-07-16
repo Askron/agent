@@ -1,0 +1,1 @@
+<span>300</span><span class="info__block-text-rouble">₽</span>
